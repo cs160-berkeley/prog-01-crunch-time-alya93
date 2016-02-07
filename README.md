@@ -1,18 +1,19 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+* Health app that allow users to select between variety of excercises. 
+* Once type is selected, the user can select the duration or number of repetitions
+* The App calculates and displays how many calories the user will burn
+* "Crunch Time" also provide information of different workouts that will burn same amount of calories
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Aleksandrina Stoyanova ([alya_st@berkeley.edu](mailto:alya_to@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See ["Crunch Time" - my first Android App] (https://youtu.be/vjSFEliCc5U)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* This assignment was due Feb 5 11:59pm, I acknowledge that I am submitting it late.
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
